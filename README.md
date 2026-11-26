@@ -28,12 +28,12 @@ Así se ve el menú en la consola:
 
 ## Cómo ejecutarlo
 
-Requisitos: **Python 3** instalado. [VERSIÓN MÍNIMA, si la sabes]
+Requisitos: **Python 3** instalado.
 
 ```bash
-git clone https://github.com/gianlucadmm/[NOMBRE-DEL-REPOSITORIO].git
-cd [NOMBRE-DEL-REPOSITORIO]
-python [NOMBRE-DEL-ARCHIVO].py
+git clone git@github.com:gianlucadmm/1v1.git
+cd 1v1
+python juego.py
 ```
 
 ## La historia del proyecto en 7 etapas
