@@ -71,12 +71,6 @@ a[0].append("dato")
 print(b[0])  # []
 ```
 
-## Estructura del repositorio
-
-```
-[ARCHIVOS Y CARPETAS DEL PROYECTO]
-```
-
 ## Autoría
 
 - Carrera: Ingeniería de Sistemas
